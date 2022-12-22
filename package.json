@@ -1,0 +1,26 @@
+{
+  "name": "socket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhisheksingh-acode/socket-server-express.git"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "abhishek singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhisheksingh-acode/socket-server-express/issues"
+  },
+  "homepage": "https://github.com/abhisheksingh-acode/socket-server-express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  }
+}
